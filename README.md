@@ -23,4 +23,5 @@ THEN a unique password that fits all the criteria will be generated for me
 The following image shows the web application's appearance and functionality:
 
 ![Screenshot](./Assets/screenshot.png)
-![URL](https://clayandemar.github.io/password/) 
+![URL](https://clayandemar.github.io/password/)
+ 
